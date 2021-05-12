@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=V-trigger)
 
 <!---
 V-trigger/V-trigger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
