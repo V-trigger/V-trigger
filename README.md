@@ -43,12 +43,12 @@
 				<br>
 				<br>
 		</div>
-		<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+		<a href="https://github.com/V-trigger">
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-trigger&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
 			alt="Zhenye's GitHub Stats" />
 		</a>
-		<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-			<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
+		<a href="https://github.com/V-trigger">
+			<img align="center" src="https://github-readme-stats.vercel.app/api?username=V-trigger&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"
 			alt="Zhenye's GitHub Stats" />
 		</a>
 		<br>
