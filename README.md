@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @V-trigger
+![](https://github-readme-stats.vercel.app/api?username=mayandev)
 
 <!---
 V-trigger/V-trigger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
