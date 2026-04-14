@@ -1,34 +1,27 @@
-<!-- █████ CYBER ANIME DEV PROFILE █████ -->
+<!-- █████ NERV SYSTEM / DEV UNIT ACTIVATION █████ -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
 
-# ⚡ CYBER DEVELOPER NODE ONLINE ⚡
+# 🟥 MECHA SYSTEM ONLINE // DEV UNIT ACTIVATED 🟥
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=700&center=true&vCenter=true&width=800&lines=Initializing+Developer+Profile...;Loading+Flutter+Subsystem...;Booting+Backend+Architecture...;Deploying+Dream+Modules+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=600&center=true&vCenter=true&width=900&lines=Booting+NERV+Developer+Interface...;Synchronizing+Brain+with+System...;Loading+Flutter+Core+Module...;Deploying+Backend+Combat+Unit...;All+Systems+Ready+%E2%9C%85" />
 
 ---
 
-> 🧬 “I don’t write code. I build systems that think.”
+> 🧠 “I don’t write software. I pilot systems.”
 
 </div>
 
 ---
 
-# 🧠 SYSTEM PROFILE
+# 🧬 PILOT INFORMATION
 
 ```txt
-NAME        : Linaria.exe
-STATUS      : ACTIVE
-ROLE        : Full Stack Architect
-SPEC        : Flutter × PHP × Vue × System Design
-LOCATION    : Neo City / Night Mode Enabled 🌙
-ENERGY      : ☕ caffeine-powered
-FOCUS       : scalable systems / real-time architecture / performance tuning
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
+PILOT NAME     : Linaria
+SYNC RATE      : 87.3%
+ENTRY PLUG     : GitHub Repository Node
+UNIT TYPE      : Full-Stack Mecha Engineer
+SPECIALIZATION : Flutter / PHP / Vue / Distributed Systems
+STATUS         : ACTIVE (Night Combat Mode 🌙)
