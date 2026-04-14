@@ -168,8 +168,8 @@ SYSTEM_STATE     : OPERATIONAL
 # 📡 CONNECT
 
 ```bash
-> connect --github YOUR_USERNAME
-> connect --email your_email@example.com
+> connect --github Linaria
+> connect --email sentinelrain@gmail.com
 ```
 
 ---
